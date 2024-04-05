@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    background-color: #d4e2f3;
+    font-family: vioda libre;
+}
+.ponto{
+    margin-top: 100px;
+    text-align: left;
+    margin-left: 70px;
+}
+#h1-1{
+    font-size: 30px;
+}
+#h1-2{
+    font-size: 15px;
+}

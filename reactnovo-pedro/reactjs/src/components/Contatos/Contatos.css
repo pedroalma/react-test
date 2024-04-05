@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    background-color: #d4e2f3;
+    font-size: vioda libre;
+}
+.ponto{
+    margin-top: 100px;
+    text-align: left;
+    margin-left: 70px;
+}
+#h1-1{
+    font-size: 30px;
+}
+#h1-2{
+    font-size: 15px;
+}
+.pnt{
+    display: flex;
+}
+#h2-1{
+    background-color: #ffffff;
+    margin-top: 3px;
+    margin-left: 30px; 
+}
+#img-1{
+    background-color: #ffffff;
+    height: 33px;
+    width: 33px;
+}
+.caixa{
+    background-color: #ffffff;
+    width: 250px;
+    height: 250px;
+}
